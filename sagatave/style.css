@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+  
+body {
+    background-color: #d3f8ed;
+    margin: 50px;
+}
+  
+h1, h2 {
+    color: #8c4085;
+    text-align: center;
+    font-family: Arial;
+}
+  
+#jaut {
+    font-weight: bold;
+    color: green;
+}
+  
+#tr{
+    width:230px;
+    height:160px;
+}

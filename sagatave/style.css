@@ -22,4 +22,5 @@ h1, h2 {
 #tr{
     width:230px;
     height:160px;
+    visibility: hidden;
 }

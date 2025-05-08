@@ -16,3 +16,13 @@ function atbilde_nav(){
 function image(){
     document.getElementById("att").style.display="none";
 }
+
+//4.izaicinājums
+function color(){
+    document.body.style.background="pink";
+}
+
+//5.izaicinājums
+function video(){
+    document.getElementById("tr").style.visibility="visible";
+}
